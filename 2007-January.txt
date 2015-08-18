@@ -1,0 +1,35 @@
+From kaih at mail.berlios.de  Mon Jan  1 23:08:24 2007
+From: kaih at mail.berlios.de (kaih at BerliOS)
+Date: Mon, 1 Jan 2007 23:08:24 +0100
+Subject: [Mr-magister-svn] r4 - trunk
+Message-ID: <200701012208.l01M8OpP025184@sheep.berlios.de>
+
+Author: kaih
+Date: 2007-01-01 23:08:23 +0100 (Mon, 01 Jan 2007)
+New Revision: 4
+
+Modified:
+   trunk/changelog.htm
+Log:
+just a mailinglist test
+
+Modified: trunk/changelog.htm
+===================================================================
+--- trunk/changelog.htm	2007-01-01 19:23:10 UTC (rev 3)
++++ trunk/changelog.htm	2007-01-01 22:08:23 UTC (rev 4)
+@@ -2,11 +2,9 @@
+ <html>
+   <head>
+     <meta name="generator" content="HTML Tidy for Windows (vers 1 June 2005), see www.w3.org">
+-    
+-	 <title>
++    <title>
+       Changelog Mr. Magister
+     </title>
+-  
+   </head>
+   <body>
+     <h1>
+
+
+
